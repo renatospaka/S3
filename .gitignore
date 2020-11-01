@@ -5,6 +5,7 @@
 # no documents
 *.MD
 .MD
+.env
 
 # Logs
 logs
